@@ -10,7 +10,7 @@ I use a notes app called [Obsidian](https://obsidian.md/) that lets me make nice
 	1. You don't _need_ this to view the notes, but it will take care of formatting and links for you.
 
 ### Pulling down a notes repository
-1. Go to the URL for this particular repository: https://github.com/fuhsaz/dnd-notes-rebecca-campaign-01.git
+1. Go to the URL for this particular repository: https://github.com/fuhsaz/dnd-notes-rebecca-campaign-01
 2. Copy the URL provided to Clone it:
 	1. Click the Green "<> Code" button
 	2. Make sure HTTPS is selected under "Clone"
